@@ -1,0 +1,19 @@
+----------------------------------------------------------
+[ ] How to show recent files ?
+[X] Bookmarks in open dialog (KFilePlacesView)
+[X] Navigation bar in open dialog
+[ ] Compact view on browse dialog and improve shortcuts and focus
+
+2010-09-13
+----------------------------------------------------------
+[X] How to open new files ?
+
+2010-08-31
+----------------------------------------------------------
+[X] Prevent multiple NLDialogs
+[X] Error when app lost focus with dialog opened
+[X] Allow select category type [mime type, document name, document folder]
+[X] Button to fire browser
+[X] Focus by default on opened window treeview
+[X] Remember category type selection
+[X] Allow filter

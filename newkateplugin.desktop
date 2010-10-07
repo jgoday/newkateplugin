@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Service
+ServiceTypes=Kate/Plugin
+X-KDE-Library=newkateplugin
+X-Kate-Version=2.8
+Name=New Kate Look
+Comment=Show a tabbar
+X-Kate-MajorProfiles=Kate
+X-Kate-MinorProfiles=*
